@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ru.vsu.cs.cg24.g82.dementiev_a.obj_writer.ObjWriterTests
+-------------------------------------------------------------------------------
+Tests run: 18, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.167 s -- in ru.vsu.cs.cg24.g82.dementiev_a.obj_writer.ObjWriterTests

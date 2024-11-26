@@ -1,0 +1,1 @@
+![](https://github.com/andreydem0505/ObjWriter/workflows/Testing/badge.svg)
